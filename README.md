@@ -1,4 +1,4 @@
--# Hi there, I'm [Your Name]! 👋
+-# Hi there, I'm Adhil Mubarak CV 👋
 
 ## About Me
 I'm a passionate and dedicated **penetration tester** with a knack for uncovering vulnerabilities and securing systems. With hands-on experience in ethical hacking, threat analysis, and system hardening, I help organizations protect their digital assets and stay ahead of potential threats.
@@ -11,8 +11,6 @@ I'm a passionate and dedicated **penetration tester** with a knack for uncoverin
 - **Programming & Scripting**: Python, Bash, PowerShell, JavaScript
 - **Web Application Security**: OWASP Top 10, SQL Injection, XSS, CSRF
 - **Network Security**: Firewall configuration, Packet analysis, Intrusion detection
-- **Cloud Security**: AWS, Azure, Kubernetes Security
-- **Certifications**: [List your certifications, e.g., OSCP, CEH, CISSP]
 
 ---
 
@@ -37,7 +35,7 @@ I'm a passionate and dedicated **penetration tester** with a knack for uncoverin
 ---
 
 ## 📫 How to Reach Me
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [your-email@example.com](adhilmubarak772@gmail.com)
 - **LinkedIn**: [your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
 - **GitHub**: [your-github-profile](https://github.com/your-github-profile)
 - **Twitter**: [your-twitter-handle](https://twitter.com/your-twitter-handle)
